@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>个人简介</title>
+</head>
+<body>
+    <h1>小黑纸</h1><hr>
+    <p>
+        嗨，我是小黑纸，正在读大一下，专业为
+        <a href="https://baike.baidu.com/item/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/663582#:~:text=%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF%E6%98%AF%E4%B8%80%E4%B8%AA%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E4%B8%8E%E7%BD%91%E7%BB%9C%E5%85%BC%E9%A1%BE%E7%9A%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AD%A6%E7%A7%91%E5%AE%BD%E5%8F%A3%E5%BE%84%E4%B8%93%E4%B8%9A%EF%BC%8C%E6%97%A8%E5%9C%A8%E5%9F%B9%E5%85%BB%E5%85%B7%E6%9C%89%E8%89%AF%E5%A5%BD%E7%9A%84%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%EF%BC%8C%E5%85%B7%E6%9C%89%E8%87%AA%E4%B8%BB%E5%AD%A6%E4%B9%A0%E6%84%8F%E8%AF%86%E5%92%8C%E5%88%9B%E6%96%B0%E6%84%8F%E8%AF%86%EF%BC%8C%E7%A7%91%E5%AD%A6%E5%9E%8B%E5%92%8C%E5%B7%A5%E7%A8%8B%E5%9E%8B%E7%9B%B8%E7%BB%93%E5%90%88%E7%9A%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E9%AB%98%E6%B0%B4%E5%B9%B3%E5%B7%A5%E7%A8%8B%E6%8A%80%E6%9C%AF%E4%BA%BA%E6%89%8D%E3%80%82,%5B2%5D%20%E5%9B%BD%E9%99%85%E4%B8%8A%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF%E4%B8%93%E4%B8%9A%E4%BA%BA%E6%89%8D%E5%9F%B9%E5%85%BB%E8%B5%B7%E6%AD%A5%E4%BA%8E20%E4%B8%96%E7%BA%AA50%E5%B9%B4%E4%BB%A3%E7%9A%84%E7%BE%8E%E5%9B%BD%EF%BC%8C%E5%88%B060%E5%B9%B4%E4%BB%A3%E4%B8%93%E4%B8%9A%E6%95%99%E8%82%B2%E9%80%90%E6%AD%A5%E8%BF%9B%E5%85%A5%E4%BA%86%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%9A%84%E8%BD%A8%E9%81%93%EF%BC%8C%E6%95%99%E5%AD%A6%E5%86%85%E5%AE%B9%E5%92%8C%E8%AF%BE%E7%A8%8B%E4%BD%93%E7%B3%BB%E5%88%99%E9%87%87%E7%94%A8%E5%AD%A6%E6%9C%AF%E5%9B%A2%E4%BD%93%E6%8F%90%E5%87%BA%E7%9A%84%E5%8F%82%E8%80%83%E6%96%B9%E6%A1%88%E3%80%82" target="_blank">计算机科学与技术</a>。
+        对<a href="https://baike.baidu.com/item/%E6%95%B0%E5%AD%A6/107037#:~:text=%E6%95%B0%E5%AD%A6%EF%BC%88%E8%8B%B1%E8%AF%AD%EF%BC%9Amathematics%EF%BC%9B%E6%BA%90%E8%87%AA%E5%8F%A4%E5%B8%8C%E8%85%8A%E8%AF%AD%CE%BC%CE%AC%CE%B8%CE%B7%CE%BC%CE%B1%2C%20m%C3%A1th%C4%93ma%EF%BC%9B%E7%BC%A9%E5%86%99%E4%B8%BAmath%E6%88%96maths%EF%BC%89%EF%BC%8C%E6%98%AF%E7%A0%94%E7%A9%B6%E6%95%B0%E9%87%8F%E3%80%81%E7%BB%93%E6%9E%84%E3%80%81%E5%8F%98%E5%8C%96%E3%80%81%E7%A9%BA%E9%97%B4%E4%BB%A5%E5%8F%8A%E4%BF%A1%E6%81%AF%E7%AD%89%E6%A6%82%E5%BF%B5%E7%9A%84%E4%B8%80%E9%97%A8%20%E5%AD%A6%E7%A7%91%E3%80%82,%E6%95%B0%E5%AD%A6%E6%98%AF%E4%BA%BA%E7%B1%BB%E5%AF%B9%E4%BA%8B%E7%89%A9%E7%9A%84%E6%8A%BD%E8%B1%A1%E7%BB%93%E6%9E%84%E4%B8%8E%E6%A8%A1%E5%BC%8F%E8%BF%9B%E8%A1%8C%E4%B8%A5%E6%A0%BC%E6%8F%8F%E8%BF%B0%E3%80%81%E6%8E%A8%E5%AF%BC%E7%9A%84%E4%B8%80%E7%A7%8D%E9%80%9A%E7%94%A8%E6%89%8B%E6%AE%B5%EF%BC%8C%E5%8F%AF%E4%BB%A5%E5%BA%94%E7%94%A8%E4%BA%8E%E7%8E%B0%E5%AE%9E%E4%B8%96%E7%95%8C%E7%9A%84%E4%BB%BB%E4%BD%95%E9%97%AE%E9%A2%98%EF%BC%8C%E6%89%80%E6%9C%89%E7%9A%84%E6%95%B0%E5%AD%A6%E5%AF%B9%E8%B1%A1%E6%9C%AC%E8%B4%A8%E4%B8%8A%E9%83%BD%E6%98%AF%E4%BA%BA%E4%B8%BA%E5%AE%9A%E4%B9%89%E7%9A%84%E3%80%82%20%E4%BB%8E%E8%BF%99%E4%B8%AA%E6%84%8F%E4%B9%89%E4%B8%8A%EF%BC%8C%E6%95%B0%E5%AD%A6%E5%B1%9E%E4%BA%8E%20%E5%BD%A2%E5%BC%8F%E7%A7%91%E5%AD%A6%EF%BC%8C%E8%80%8C%E4%B8%8D%E6%98%AF%20%E8%87%AA%E7%84%B6%E7%A7%91%E5%AD%A6%E3%80%82" target="_blank">数学</a>
+        和
+        <a href="https://baike.baidu.com/item/%E8%AE%A1%E7%AE%97%E6%9C%BA/140338" target="_blank">计算机</a>有着浓厚兴趣，一直努力探索这两个领域知识。
+        我性格外向，在交流中乐于分享想法，平时活泼好动，总能给身边带来活力。
+        当然，我也意识到自己浮躁的问题，并在努力改进。
+        希望在这个学习社区，与大家交流学习心得，共同提升计算机专业水平 。
+    </p>
+    <img src="https://tse2-mm.cn.bing.net/th/id/OIP-C.HNVqqayem7nqKVCUuXygBgHaHa?w=193&h=193&c=7&r=0&o=5&dpr=2&pid=1.7" alt="图片加载失败" title="鸡（小黑子）"><br>
+    <h2>学习经历</h2>
+    <p>
+        高中时，我数学成绩优异，多次斩获校数学竞赛一等奖，在信息技术社团接触
+        <a href="https://baike.baidu.com/item/Python/407313" target="_blank">Python</a>
+        ，完成简易计算器等项目，对计算机产生兴趣。
+        大一上，学好
+        <a href="https://baike.baidu.com/item/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/1182" target="_blank">高等数学</a>
+        ，借计算机导论、程序设计基础筑牢专业根基。
+        大一寒假，线上学
+        <a href="https://baike.baidu.com/item/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/1450" target="_blank">数据结构</a>
+        ，参与开源项目提升能力 。
+    </p>
+    <h2>主要成就</h2>
+    <p>
+        创作主要成就，可从学科竞赛、学习成果、实践项目等方面梳理。考虑到你目前的学习阶段，着重突出高中到大学的相关亮眼表现。
+        <br><br><strong>学科竞赛</strong>：<ins>高中</ins>时在数学学科竞赛中表现出色，<ins>多次荣获学校数学竞赛一等奖</ins>。进入大学后，积极参与计算机相关竞赛，在大一上学期的校内编程竞赛里，凭借扎实的C语言基础和团队协作，与组员共同完成一个图书管理系统的设计与开发，成功斩获二等奖。
+        <br><br><strong>学习成果</strong>：<ins>高中</ins>阶段数学成绩长期稳居年级前列，为大学专业学习奠定了<ins>良好的数学思维基础</ins>。大一上学期，《高等数学》课程取得95分的优异成绩，在专业排名前5%。同时，《程序设计基础》课程成绩突出，课程设计作业得到老师高度评价，被选为优秀范例在班级展示。
+        <br><br><strong>实践项目</strong>：<ins>高中</ins>信息技术社团期间，<ins>独立完成Python简易计算器项目，实现基本运算功能。</ins>大一寒假，参与线上开源项目，<ins>负责文件管理系统中文件搜索功能模块的开发，通过优化算法，使搜索效率提升30%</ins>，得到项目团队的认可 。
+    </p>
+    这里还有一些我做的<ins>图标</ins>，以及我喜欢的<ins>电影</ins>、<ins>音乐</ins>，和大家分享一下。<br>
+    <a href="./综合实例二-项目.html" target="_blank"><del>爱好</del></a>
+    
+</body>
+</html>
